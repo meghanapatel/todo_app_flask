@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment secrets (in case you add later)
+.env
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
